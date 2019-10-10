@@ -6293,6 +6293,27 @@ body {
 .cid-rEwtXRD4bS .dropdown-item:hover {
   color: #25ff00 !important;
 }
+.cid-rEwG6UnKtD {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rEwG6UnKtD .title {
+  margin-bottom: 2rem;
+}
+.cid-rEwG6UnKtD .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rEwG6UnKtD a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rEwG6UnKtD a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rEwG6UnKtD textarea.form-control {
+  min-height: 188px;
+}
 .cid-rEwtXRD4bS .navbar {
   padding: .5rem 0;
   background: #333333;
