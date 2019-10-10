@@ -1414,7 +1414,7 @@ body {
   box-shadow: none !important;
 }
 .cid-rxcEb9DtT8 {
-  background-color: #0f7699;
+  background-image: url("../../../assets/images/padregame2-2000x1500.jpg");
 }
 .cid-rxcEb9DtT8 .mbr-text,
 .cid-rxcEb9DtT8 .mbr-section-btn {
@@ -1822,6 +1822,29 @@ body {
 }
 @media (max-width: 768px) {
   .cid-rEm9zXESKl .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rEs9pO8WfU {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rEs9pO8WfU .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rEs9pO8WfU .section-text {
+  padding: 2rem 0;
+}
+.cid-rEs9pO8WfU .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rEs9pO8WfU .inner-container {
     width: 100% !important;
   }
 }
