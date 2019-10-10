@@ -1872,26 +1872,6 @@ body {
 .cid-rEmhNxvkf9 blockquote {
   color: #767676;
 }
-.cid-rEsbDdqu4n {
-  background: #ffffff;
-}
-.cid-rEsbDdqu4n .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rEsbDdqu4n .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rEsbDdqu4n figcaption {
-  position: relative;
-}
-.cid-rEsbDdqu4n figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rEsbDdqu4n .image-block {
-    width: 100% !important;
-  }
+.cid-rEvYa53btE {
+  background-image: url("../../../assets/images/dan-scott-454x454.jpg");
 }
