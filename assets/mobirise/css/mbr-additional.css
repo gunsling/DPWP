@@ -1765,7 +1765,7 @@ body {
 }
 .cid-rEm2IguhTg .mbr-text,
 .cid-rEm2IguhTg .mbr-section-btn {
-  color: #f9f295;
+  color: #25ff00;
 }
 .cid-rEm9bhVnJR {
   padding-top: 30px;
@@ -1781,6 +1781,8 @@ body {
 }
 .cid-rEm9bhVnJR .section-text {
   padding: 2rem 0;
+  text-align: center;
+  color: #6b6969;
 }
 .cid-rEm9bhVnJR .inner-container {
   margin: 0 auto;
