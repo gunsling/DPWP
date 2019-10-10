@@ -1419,6 +1419,7 @@ body {
 .cid-rxcEb9DtT8 .mbr-text,
 .cid-rxcEb9DtT8 .mbr-section-btn {
   text-align: center;
+  color: #ff0000;
 }
 .cid-ryUfvS5pw9 {
   padding-top: 90px;
@@ -1867,4 +1868,27 @@ body {
 .cid-rEmhNxvkf9 .mbr-text,
 .cid-rEmhNxvkf9 blockquote {
   color: #767676;
+}
+.cid-rEsbDdqu4n {
+  background: #ffffff;
+}
+.cid-rEsbDdqu4n .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rEsbDdqu4n .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rEsbDdqu4n figcaption {
+  position: relative;
+}
+.cid-rEsbDdqu4n figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rEsbDdqu4n .image-block {
+    width: 100% !important;
+  }
 }
