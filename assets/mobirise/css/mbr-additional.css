@@ -1821,7 +1821,7 @@ body {
 }
 .cid-rEwJquPseB .nav-link:hover,
 .cid-rEwJquPseB .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #ff0000 !important;
 }
 .cid-ryUfvS5pw9 {
   padding-top: 90px;
@@ -6550,6 +6550,10 @@ body {
 }
 .cid-rEwCIAhaBO .mbr-overlay ~ .container-slide {
   z-index: auto;
+}
+.cid-rEwCIAhaBO P {
+  color: #ff0000;
+  text-align: center;
 }
 .cid-rEwJquPseB .navbar {
   padding: .5rem 0;
