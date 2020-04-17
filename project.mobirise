@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DansPWP",
-    "currentPage": "3dpntreq.html",
+    "currentPage": "ttm.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.6",
     "siteFonts": [],
-    "uniqCompNum": 29,
+    "uniqCompNum": 32,
     "versionPublish": "4.10.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/dan-scott-128x128.png",
@@ -3999,7 +3999,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Contact",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -8795,7 +8795,7 @@
       "settings": {
         "meta_descr": "Top Ten Portal",
         "title": "Top Ten Intro",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -9996,7 +9996,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/1999fc-666x1000.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -10025,8 +10025,42 @@
                 "title": "The Shawshank Redemption (1994)",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Most people don't know this was written by <a href=\"https://en.wikipedia.org/wiki/Rita_Hayworth_and_Shawshank_Redemption\" target=\"_blank\">Stephen King it was originally called Rita Hayworth and the Shawshank Redemption in 1982 as part of a book called different seasons</a>&nbsp;as one one four stories along with <a href=\"https://en.wikipedia.org/wiki/Apt_Pupil\" target=\"_blank\">Apt Pupil</a>&nbsp;at one point (may no longer be true) it was one of the most played TV movies on cable",
+                "text": "Most people don't know this movie (story) was written by <a href=\"https://en.wikipedia.org/wiki/Rita_Hayworth_and_Shawshank_Redemption\" target=\"_blank\">Stephen King it was originally called Rita Hayworth and the Shawshank Redemption in 1982 as part of a book called different seasons</a>&nbsp;as &nbsp;one four stories along with <a href=\"https://en.wikipedia.org/wiki/Apt_Pupil\" target=\"_blank\">Apt Pupil</a>&nbsp;at one point (may no longer be true) it was one of the most played TV movies on cable. I have read the book/story and it is very close, well adapted.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.imdb.com/title/tt0111161/?ref_=nv_sr_1?ref_=nv_sr_1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IMDB (External)</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/supert-580x867.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Super Troopers (2001)",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b><a href=\"https://www.imdb.com/title/tt0247745/\" target=\"_blank\">Super Troopers</a>&nbsp;Was out of no where for me but it was an instant classic, unfortunatley the Broken Lizzards never repeated.</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.imdb.com/title/tt0247745/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IMDB (External)</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/shaun-of-the-dead-669x1000.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Shaun of the dead (2004)",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "OMG, I get back from Iraq, drunk on night and some how watch this. Very unique in the fact that we know brits are not funny, or sexy (except the accent), good sense of taste food or fashion ; comedy is the big, big failure when it comes to the uk; This brings the brits some redemeption. **Drink two or three of you fav adult bevs prior to watching, continue consuming till.....)&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.imdb.com/title/tt024774https://www.imdb.com/title/tt0365748/?ref_=nv_sr_srsg_05/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IMDB (External)</a> "
               }
             ]
           }
