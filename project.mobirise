@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DansPWP",
-    "currentPage": "ttm.html",
+    "currentPage": "gphotos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.6",
     "siteFonts": [],
-    "uniqCompNum": 32,
+    "uniqCompNum": 29,
     "versionPublish": "4.10.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/dan-scott-128x128.png",
@@ -80,7 +80,7 @@
             }
           },
           "_name": "header2",
-          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/padregame2-1-2000x1500.jpeg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#0f7699\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    Dans Personal Web Page-Alpha 0.1.51a<br></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">Dans Personal Web Page Portal HOME SCREEN</h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Alpha site, mobile optimized. Still working on rotating picutres the software auto-rotates to maintain mobile compatibility.<br></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-success\" href=\"https://www.facebook.com/dan.scott.585559\" data-app-placeholder=\"Type Text\" target=\"_blank\">Facebook (External)<br></a> <a class=\"btn btn-md btn-success\" href=\"https://www.trueachievements.com/gamer/Gunsling\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"socicon socicon-xbox mbr-iconfont mbr-iconfont-btn\"></span>True Achievements(External)</a> <a class=\"btn btn-md btn-primary\" href=\"page14.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">Top Ten(heavy under construction)</a> \n                    <a class=\"btn btn-md btn-primary\" href=\"assets/files/Worksch.html\" data-app-placeholder=\"Type Text\">Work Schedule<br></a> <a class=\"btn btn-md btn-primary\" href=\"3dp.html\" data-app-placeholder=\"Type Text\">3D Printing<br></a>   <a class=\"btn btn-md btn-primary\" href=\"mailto:gunsling@gmail.com\" data-app-placeholder=\"Type Text\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(35, 35, 35);\"></span>E-Mail Dan</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/padregame2-1-2000x1500.jpeg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#0f7699\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    Dans Personal Web Page-Alpha 0.1.53a<br></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">Dans Personal Web Page Portal HOME SCREEN</h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Alpha site, mobile optimized. Still working on rotating picutres the software auto-rotates to maintain mobile compatibility.<br></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-success\" href=\"https://www.facebook.com/dan.scott.585559\" data-app-placeholder=\"Type Text\" target=\"_blank\">Facebook (External)<br></a> <a class=\"btn btn-md btn-success\" href=\"https://www.trueachievements.com/gamer/Gunsling\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"socicon socicon-xbox mbr-iconfont mbr-iconfont-btn\"></span>True Achievements(External)</a> <a class=\"btn btn-md btn-primary\" href=\"page14.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">Top Ten(heavy under construction)</a> \n                    <a class=\"btn btn-md btn-primary\" href=\"assets/files/Worksch.html\" data-app-placeholder=\"Type Text\">Work Schedule<br></a> <a class=\"btn btn-md btn-primary\" href=\"3dp.html\" data-app-placeholder=\"Type Text\">3D Printing<br></a>   <a class=\"btn btn-md btn-primary\" href=\"mailto:gunsling@gmail.com\" data-app-placeholder=\"Type Text\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(35, 35, 35);\"></span>E-Mail Dan</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_cid": "rxcEb9DtT8",
           "_anchor": "header2-0",
           "_protectedParams": [],
@@ -5167,7 +5167,7 @@
               "z-index": "auto"
             },
             "P": {
-              "color": "#ff0000",
+              "color": "#149dcc",
               "text-align": "center"
             }
           },
@@ -5322,6 +5322,23 @@
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20200401-162537-2000x1000.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "IMAGE SLIDE",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "<b>The last of the Bell peppers. But also the mystery potatoes. The Potatoes were growing in my compost bucket (first time doing compost). Once I knew what they were I let them grow, the leaves were getting devoured by something so I was ready to dump one of the potatoes, when mixing the dirt to new stuff I was greated with red potatoes (didn't know the variety from the leaves, just knew potatoes). The little tiny one at the end of the ruler was tasty (raw). The Bell Peppers were also tasty on a pizza.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
@@ -9699,7 +9716,7 @@
             }
           },
           "_name": "header16",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#efefef\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    Top 10 Movies! (I'm still @ 5 and not in order).</h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Here is where you are allowed to be pissed. The Rules are.....<br></h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">It CANNOT be a trilogy. Sorry<br>Starwars OUT<br>Jurrasic Park OUT<br>Godfather OUT<br>Etc...<br><br></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-black-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">LEARN MORE</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#efefef\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    Top 10 Movies! (I'm still @ 7 and not in any order).</h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Here is where you are allowed to be pissed. The Rules are.....<br></h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">It CANNOT be a trilogy. Sorry<br>Starwars OUT<br>Jurrasic Park OUT<br>Godfather OUT<br>Alien and Predator OUT<br>And those were great or they wouldn't have made three of them,<br>Etc...<br><br></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-black-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">LEARN MORE</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_cid": "rFGdbFd2IO",
           "_anchor": "header16-w",
           "_protectedParams": [],
@@ -9964,24 +9981,24 @@
                 "image": "@PROJECT_PATH@/assets/images/theabyss-350x525.jpeg",
                 "active": false,
                 "showButtons": true,
-                "showText": false,
+                "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "The ABYSS (1989)",
+                "title": "The ABYSS (1989)<br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.imdb.com/title/tt0096754/?ref_=fn_al_tt_1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IMDB (External)</a> "
+                "text": "An interesting one, Ed Harris is great. A few names I have seen in random in other tv shows or movies. Great story telling, The one time I (and I think it might be consider okay to beat on your ex-wife). The directors cut should be reserved to only those who consider it a top ten.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.imdb.com/title/tt0096754/?ref_=fn_al_tt_1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IMDB (External)</a>  "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/se7ven-639x1000.jpg",
                 "active": false,
                 "showButtons": true,
-                "showText": false,
+                "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -9991,7 +10008,7 @@
                 "title": "Se7en(1995)",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "What an epic. So good it is hard even to this day to hold off the goose bumps even though I have seen so many times. Dark and dreary full of suspense with that shock ending. We see Morgan Freeman, Brad Pitt, Gweneth Poweltro, <a href=\"https://en.wikipedia.org/wiki/R._Lee_Ermey\" target=\"_blank\">R. Lee Ermey</a>&nbsp;(who came to Iraq and spoke to us) and some minor names that also went on to do others. The big reveal/big star as a bad guy, that WTF just happened ending.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.imdb.com/title/tt0114369/?ref_=fn_al_tt_1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IMDB (External)</a> "
               },
               {
@@ -10008,7 +10025,7 @@
                 "title": "Fightclub(1999)",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "I saw this the first time on <a href=\"https://en.wikipedia.org/wiki/VHS\" target=\"_blank\">VHS</a> in <a href=\"https://en.wikipedia.org/wiki/Hospital_corpsman\" target=\"_blank\">FMSS</a>, I missed the first 15-20min, great movie mind fuck, book is good also. One of the few times I say move is better than book.",
+                "text": "I saw this the first time on <a href=\"https://en.wikipedia.org/wiki/VHS\" target=\"_blank\">VHS</a> in <a href=\"https://en.wikipedia.org/wiki/Hospital_corpsman\" target=\"_blank\">FMSS</a>, I missed the first 15-20min, great movie mind fuck, book is good also. One of the few times I say movie is better than book. Spoiler \"the narrator (Ed Norton) acutally has a name if you read the book (and it is not Jack/Jill)\".",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.imdb.com/title/tt0137523/?ref_=nv_sr_1?ref_=nv_sr_1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IMDB (External)</a> "
               },
               {
@@ -10042,12 +10059,12 @@
                 "title": "Super Troopers (2001)",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b><a href=\"https://www.imdb.com/title/tt0247745/\" target=\"_blank\">Super Troopers</a>&nbsp;Was out of no where for me but it was an instant classic, unfortunatley the Broken Lizzards never repeated.</b>",
+                "text": "<b><a href=\"https://www.imdb.com/title/tt0247745/\" target=\"_blank\">Super Troopers</a>&nbsp;Was out an of no where for me but it was an instant classic, unfortunatley the Broken Lizzards never repeated. They made super troopers 2 which was ok, and some bad ones like Club Dredd.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.imdb.com/title/tt0247745/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IMDB (External)</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/shaun-of-the-dead-669x1000.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -10059,8 +10076,25 @@
                 "title": "Shaun of the dead (2004)",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "OMG, I get back from Iraq, drunk on night and some how watch this. Very unique in the fact that we know brits are not funny, or sexy (except the accent), good sense of taste food or fashion ; comedy is the big, big failure when it comes to the uk; This brings the brits some redemeption. **Drink two or three of you fav adult bevs prior to watching, continue consuming till.....)&nbsp;",
+                "text": "OMG, I get back from Iraq, drunk one night and some how watch this. Very unique in the fact that we know brits are not funny, or sexy (except the accent), &nbsp;or good sense of taste food or fashion ; comedy is the big, big failure when it comes to the uk; This brings the brits some redemeption. **Drink two or three of you fav adult bevs prior to watching, continue consuming till.....)&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.imdb.com/title/tt024774https://www.imdb.com/title/tt0365748/?ref_=nv_sr_srsg_05/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IMDB (External)</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/deadpool-2016-poster-257x385.png",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Deadpool (2016)",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "I'm a big comic book fan (I still have tons of comics, it sucks to see the industry move away from paper to movies). Deadpool was not one of my favs, xmen yes, x whatever else no. The movie did something that was needed it took violence, stupid sophmoric jokes, and an okay story in to a laugh fest. Deadpool 2 not to much but it was ok. Had to put it on now before Deadpool 3.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.imdb.com/title/tt1431045/?ref_=fn_al_tt_1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">IMDB (External)</a> "
               }
             ]
           }
