@@ -11625,7 +11625,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/stockphoto-1484x1499.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -11796,7 +11796,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/day7-1117x2234.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -11831,6 +11831,25 @@
                 "contentAlign": "left",
                 "text": "1550 10/27/2020. The previous photos got jumbled but this one is def day 8.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/day-9-1221x2442.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "<p>Day 9</p>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Day 9 1545.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.amazon.com/gp/product/B08BW9C7YN/ref=ppx_yo_dt_b_asin_image_o02_s00?ie=UTF8&amp;psc=1\" data-toolbar=\"-mbrBtnMove\">Amazon Link</a> "
               }
             ]
           }
