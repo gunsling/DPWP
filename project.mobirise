@@ -11625,7 +11625,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/stockphoto-1484x1499.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -11639,7 +11639,7 @@
                 "textTitle": "Aero Garden",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "In the past I had put up a florescent light, attach to on off timer and water. Last time it was Greek Oregano and Sweet Basil. They were on the counter top in the kitchen in a window sill box that go no actual light. They grew but not like I am hoping with this. For back ground this is a hydroponic set up. It clicks on an air pump for five minutes every 30 minutes. I also has an LED array to help grow. It will click on at a set time and stay on for 15 hours. It will also remind me to add nutrients and will even tell me when it is low on water. This one came with six lettuce grow pods, the nutrients and the unit.<br><br>It was $89 on prime day 10/13/2020. It was sold out the next morning. This unit normally costs $149. In the end I used credit card rewards and a few left over from a return, so it was under $8.<br><br>I will try and take photos along the way.",
+                "text": "In the past I had put up a florescent light, attach to on off timer and water. Last time it was Greek Oregano and Sweet Basil. They were on the counter top in the kitchen in a window sill box that go no actual light. They grew but not like I am hoping with this. For back ground this is a hydroponic set up. It clicks on an air pump for five minutes every 30 minutes. I also has an LED array to help grow. It will click on at a set time and stay on for 15 hours. It will also remind me to add nutrients and will even tell me when it is low on water. This one came with six lettuce grow pods, the nutrients and the unit.<br><br>It was $89 on prime day 10/13/2020. It was sold out the next morning. This unit normally costs $149. In the end I used credit card rewards and a few left over from a return, so it was under $8.<br><br>I will try and take photos along the way. (The software screwed something up and I am re-doing photos to align with correct dates).",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.amazon.com/gp/product/B08BW9C7YN/ref=ppx_yo_dt_b_asin_image_o02_s00?ie=UTF8&amp;psc=1\" data-toolbar=\"-mbrBtnMove\">Amazon Link</a> "
               },
               {
@@ -11835,7 +11835,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/day-9-1221x2442.jpg",
                 "active": false,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -11849,6 +11849,44 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Day 9 1545.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.amazon.com/gp/product/B08BW9C7YN/ref=ppx_yo_dt_b_asin_image_o02_s00?ie=UTF8&amp;psc=1\" data-toolbar=\"-mbrBtnMove\">Amazon Link</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/day10-2000x1000.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "<p>Day 10</p>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Day 10 1530. Second plant food.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.amazon.com/gp/product/B08BW9C7YN/ref=ppx_yo_dt_b_asin_image_o02_s00?ie=UTF8&amp;psc=1\" data-toolbar=\"-mbrBtnMove\">Amazon Link</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/day11-2000x1000.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "<p>Day 11</p>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Day 11 1700. What one day does.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.amazon.com/gp/product/B08BW9C7YN/ref=ppx_yo_dt_b_asin_image_o02_s00?ie=UTF8&amp;psc=1\" data-toolbar=\"-mbrBtnMove\">Amazon Link</a> "
               }
             ]
