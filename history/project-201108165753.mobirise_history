@@ -54,7 +54,9 @@
     "sitemapSwitcher": "on",
     "imageResize": true,
     "robotsSwitcher": false,
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -11643,7 +11645,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.amazon.com/gp/product/B08BW9C7YN/ref=ppx_yo_dt_b_asin_image_o02_s00?ie=UTF8&amp;psc=1\" data-toolbar=\"-mbrBtnMove\">Amazon Link</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/day-1-after-setup-2000x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/day%201_after_setup-2000x1000.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -11662,7 +11664,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/20201022-150845-hdr-2000x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20201022_150845_hdr-2000x1000.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -11681,7 +11683,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/day-three-0930-2000x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/day%20three%200930-2000x1000.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -11700,7 +11702,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/day-3-1529-2000x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/day%203%201529-2000x1000.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -11719,7 +11721,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/day2-growth-2000x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/day2%20growth-2000x1000.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -11833,7 +11835,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/day-9-1221x2442.jpg",
+                "image": "@PROJECT_PATH@/assets/images/day%209-1221x2442.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -11925,25 +11927,6 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Day 20 1530. First time adding water, used cold RO water since my water bottle was right there..",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.amazon.com/gp/product/B08BW9C7YN/ref=ppx_yo_dt_b_asin_image_o02_s00?ie=UTF8&amp;psc=1\" data-toolbar=\"-mbrBtnMove\">Amazon Link</a> "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/first-harvest-day-20-2000x1000.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "alt": "",
-                "title": "",
-                "textTitle": "<p>Day 20 First Harvest</p>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Day 20 1700. Removed some leave from each and move a few around to let more light to some of the smaller ones.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.amazon.com/gp/product/B08BW9C7YN/ref=ppx_yo_dt_b_asin_image_o02_s00?ie=UTF8&amp;psc=1\" data-toolbar=\"-mbrBtnMove\">Amazon Link</a> "
               }
             ]
